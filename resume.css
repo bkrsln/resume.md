@@ -45,7 +45,7 @@ ul {
     }
 /* ul immediately after h1 = contact list */
 h1 + ul {
-    text-align: center;
+    text-align: left; /* center */
     margin: 0;
     padding: 0;
     }
