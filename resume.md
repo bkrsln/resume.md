@@ -1,60 +1,94 @@
 <!-- The (first) h1 will be used as the <title> of the HTML page -->
-# Richard Hendricks
+# Bekir Arslan
 
-<!-- The unordered list immediately after the h1 will be formatted on a single
-line. It is intended to be used for contact details -->
-- <richard.hendriks@mail.com>
-- (912) 555-4321
-- [richardhendricks.example.com](http://richardhendricks.example.com)
-- San Francisco, CA
+<!-- The unordered list immediately after the h1 will be formatted on a single line. It is intended to be used for contact details -->
+- Data Scientist
+- <mail@bekirarslan.info>
+- +90(505)4548964
 
-<!-- The paragraph after the h1 and ul and before the first h2 is optional. It
-is intended to be used for a short summary. -->
+
+<!-- The paragraph after the h1 and ul and before the first h2 is optional. It is intended to be used for a short summary. -->
 CEO and Software Engineer with knowledge of applied information theory,
 including optimizing lossless compression schema of both the length-limited and
 adaptive variants.
 
+## Skills
+Data Visualization, Data Governance, Data Storytelling, Data Literacy, Business Intelligence, Product Management, Growth Marketing, App Store Optimization, UI Development & UX Design, Content Marketing, Copywriting.
+
+## Tools
+SQL, Python, Google BigQuery, Google Analytics, Google Tag Manager, Google Data Studio, Firebase, Tableau, Git, D3.js, HTML / CSS, Adobe Apps, Office Apps, Atlassian Aps (Jira, Confluence, Trello etc.)
+
+## Soft Skills
+Analytical Thinking, Storytelling, Curiosity, Problem Solving, Business Understanding, Documentation, Communication, Mind Mapping, Remote Work, Presentation, Lifetime Learning.
+
 ## Experience
 
-<!-- You have to wrap the "left" and "right" half of these headings in spans by
-hand -->
-### <span>CEO/President, Pied Piper</span> <span>Dec 2013 -- Dec 2014</span>
+<!-- You have to wrap the "left" and "right" half of these headings in spans by hand -->
+### <span>Data Scientist — TRT (Turkish Radio and Television Corporation), Istanbul</span> <span>Nov 2020 - Present</span>
 
-Pied Piper is a multi-platform technology based on a proprietary universal
-compression algorithm that has consistently fielded high Weisman Scores™ that
-are not merely competitive, but approach the theoretical limit of lossless
-compression.
+Growth
+- Managing growth teams of TRT İzle (Netflix-like vod app) and TRT Dinle (Spotify-like sound app).
+- Creating workshops for determine apps' KPI's. (North Star Metric, Aha! etc.)
+- Producing, building data driven growth tactics and experiments.
+- Preparing documentations for growth experiment learnings.
+- Working on search engine and app store optimization. (SEO, ASO)
+- Focusing data driven marketing for dijital products and apps.
 
- - Build an algorithm for artist to detect if their music was violating
-   copyright infringement laws
- - Successfully won Techcrunch Disrupt
- - Optimized an algorithm that holds the current world record for Weisman Scores
+Data Science
+- Creating data insights about social media platforms, apps and websites usage for digital teams.
+- Building dashboards in visualization tools. (Python, D3.js, Tableau, Power BI, Google Data Studio etc.)
+- Analyzing user behavior. (AAARRR, App Remove, Churn etc.)
+- Focusing data driven product management.
 
-### <span>Teacher, CoderDojo</span> <span>July 2013 -- Dec 2013</span>
+### <span>Business Intelligence Specialist — IHH Humanitarian Relief Foundation, Istanbul</span> <span>Jan 2018 - Nov 2020</span>
 
-Global movement of free coding clubs for young people.
+- Data governance strategy development.
+- Information and data warehouse management.
+- Data analytics, visualization and storytelling.
+- Business intelligence management.
+- Customer experience management.
 
- - Awarded 'Teacher of the Month'
+### <span>Senior Publications Editor — IHH Humanitarian Relief Foundation, Istanbul</span> <span>Nov 2013 - Dec 2018</span>
 
-## Projects
+- Digital and print publication project management, copywriting and editing.
+- Content production, new media management.
+- Content and digital marketing.
+- Storytelling, narrative and story designing.
+- Documentary and visual media copywriting.
+- SEO, SAO management.
+- UI, UX designing.
 
-### <span>Miss Direction</span> <span>Aug 2016</span>
+### <span>Web Projects Coordinator — Sueda Yayincilik, Istanbul</span> <span>Aug 2008 - Nov 2013</span>
 
-A mapping engine that misguides you:
-
-   - Won award at AIHacks 2016
-   - Built by all women team of newbie programmers
-   - Using modern technologies such as GoogleMaps, Chrome Extension and Javascript
+- UI design & development.
+- Content writing & editing.
 
 ## Education
 
-### <span>University of Oklahoma, BA Information Technology</span> <span>2011 -- 2014</span>
+### <span>Computer Education and Instructional Technologies - Anadolu University, Eskisehir</span> <span>2004 - 2008</span>
 
-  - GPA 4.0
-  - DB1101 - Basic SQL
-  - CS2011 - Java Introduction
+- Bachelor’s Degree
 
-## Skills
+## Language
 
- - Web development: HTML, CSS, JavaScript
- - Compression: Mpeg, MP4, GIF
+- Turkish (Native) 
+- English (B2 Degree)
+- Ottoman Turkish (Advanced Degree)
+
+## Membership
+- Data Literacy Association, 2019 - Present, ([voyd.org.tr](voyd.org.tr))
+
+## Interests
+
+Design, Cinema, History, Mathematics, Journalism, Photography, Camping, Reading, Writing, Cycling, Trip, Game, Coffee, Quality Content, Pipes.
+
+## Links
+
+- Blog - [bekirarslan.com](bekirarslan.com )
+- Twitter - [twitter.com/bkrsln](twitter.com/bkrsln ) 
+- Medium - [medium.com/@bekirarslan](medium.com/@bekirarslan )
+- Newsletter - [getrevue.co/profile/bekirarslan](getrevue.co/profile/bekirarslan )
+- Instagram - [instagram.com/bkrsln](instagram.com/bkrsln )
+- Spotify - [spotify.com/user/bkrsln](spotify.com/user/bkrsln )  
+- Linkedin - [linkedin.com/in/bkrsln](linkedin.com/in/bkrsln )  
+- Github - [github.com/bkrsln](github.com/bkrsln )
