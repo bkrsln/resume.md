@@ -1,0 +1,214 @@
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Bekir Arslan</title>
+<style>
+body {
+    color: #000000;
+    background: #EEEEEE;
+    font: 1.1em "Times New Roman";
+    line-height: 1.2;
+    margin: 40px 0;
+}
+#resume {
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 40px 60px;
+    background: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    box-shadow: 2px 2px 4px #AAAAAA;
+    -webkit-box-shadow: 2px 2px 4px #AAAAAA;
+}
+h1 {
+    text-transform: normal; /* uppercase */
+    text-align: left; /* center */
+    font-size: 200%;
+    margin: 0;
+    padding: 0;
+}
+h2 {
+    border-bottom: 1px solid #000000;
+    text-transform: uppercase;
+    font-size: 130%;
+    margin: 1em 0 0.5em 0;
+    padding: 0;
+}
+h3 {
+    font-size: 100%;
+    margin: 0.8em 0 0.3em 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+}
+p {
+    margin: 0 0 0.5em 0;
+    padding: 0;
+    }
+ul {
+    padding: 0;
+    margin: 0 1.5em;
+    }
+/* ul immediately after h1 = contact list */
+h1 + ul {
+    text-align: left; /* center */
+    margin: 0;
+    padding: 0;
+    }
+h1 + ul > li {
+    display: inline;
+    white-space: pre;
+    list-style-type: none;
+}
+h1 + ul > li:after {
+    content: "  \2022  ";
+}
+h1 + ul > li:last-child:after {
+    content: "";
+}
+/* p immediately after contact list = summary */
+h1 + ul + p {
+    margin: 1em 0;
+}
+@media print {
+    body {
+        font-size: 10pt;
+        margin: 0;
+        padding: 0;
+        background: none;
+    }
+    #resume {
+        margin: 0;
+        padding: 0;
+        border: 0px;
+        background: none;
+        box-shadow: none;
+        -webkit-box-shadow: none;
+    }
+    /* Make links black in PDF */
+    /* Move this outside the print block to apply this in HTML too */
+    a, a:link, a:visited, a:hover {
+        color: #000000;
+        text-decoration: underline;
+    }
+}
+@page {
+    /* Change margins and paper size of PDF */
+    /* https://developer.mozilla.org/en-US/docs/Web/CSS/@page */
+    size: letter;
+    margin: 0.5in 0.8in;
+}
+@media screen and (max-width: 800px) {
+    body {
+        font-size: 16pt;
+        margin: 0;
+        padding: 0;
+        background: #FFFFFF !important;
+    }
+    #resume {
+        margin: 0;
+        padding: 1em;
+        border: 0px;
+        background: none;
+        box-shadow: none;
+        -webkit-box-shadow: none;
+    }
+}
+</style>
+</head>
+<body>
+<div id="resume">
+<!-- The (first) h1 will be used as the <title> of the HTML page -->
+<h1>Bekir Arslan</h1>
+<!-- The unordered list immediately after the h1 will be formatted on a single line. It is intended to be used for contact details -->
+<ul>
+<li>Data Scientist</li>
+<li><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#109;&#97;&#105;&#108;&#64;&#98;&#101;&#107;&#105;&#114;&#97;&#114;&#115;&#108;&#97;&#110;&#46;&#105;&#110;&#102;&#111;">&#109;&#97;&#105;&#108;&#64;&#98;&#101;&#107;&#105;&#114;&#97;&#114;&#115;&#108;&#97;&#110;&#46;&#105;&#110;&#102;&#111;</a></li>
+<li><a href="bekirarslan.com">bekirarslan.com</a></li>
+<li>+90(505)4548964</li>
+</ul>
+<h2>Skills</h2>
+<p>Data Visualization, Data Governance, Data Storytelling, Data Literacy, Business Intelligence, Product Management, Growth Marketing, App Store Optimization, UI Development &amp; UX Design, Content Marketing, Copywriting.</p>
+<h2>Tools</h2>
+<p>SQL, Python, Google BigQuery, Google Analytics, Google Tag Manager, Google Data Studio, Firebase, Tableau, Git, D3.js, HTML / CSS, Adobe Apps, Office Apps, Atlassian Aps (Jira, Confluence, Trello etc.)</p>
+<h2>Soft Skills</h2>
+<p>Analytical Thinking, Storytelling, Curiosity, Problem Solving, Business Understanding, Documentation, Communication, Mind Mapping, Remote Work, Presentation, Lifetime Learning.</p>
+<h2>Experience</h2>
+<!-- You have to wrap the "left" and "right" half of these headings in spans by hand -->
+<h3><span>Data Scientist — TRT (Turkish Radio and Television Corporation), Istanbul</span> <span>Nov 2020 - Present</span></h3>
+<ul>
+<li>
+<p><strong>Growth</strong></p>
+<ul>
+<li>Managing growth teams of TRT İzle (Netflix-like vod app) and TRT Dinle (Spotify-like sound app).</li>
+<li>Guiding the teams to determine KPIs.</li>
+<li>Creating workshops for determine apps&rsquo; KPIs. (North Star Metric, Aha! etc.)</li>
+<li>Producing, building data driven growth tactics and experiments.</li>
+<li>Preparing documentations for growth experiment learnings.</li>
+<li>Creating data insights for search engine and app store optimization. (SEO, ASO)</li>
+<li>Focusing data driven growth marketing for dijital products and apps.</li>
+</ul>
+</li>
+<li>
+<p><strong>Data Science</strong></p>
+<ul>
+<li>Creating data insights about social media platforms, apps and websites usage for digital teams.</li>
+<li>Writing SQL queries for data insights using cloud systems.</li>
+<li>Building dashboards in visualization tools. (Python, D3.js, Tableau, Power BI, Google Data Studio etc.)</li>
+<li>Analyzing user behavior. (AAARRR, App Remove, Churn etc.)</li>
+<li>Focusing data driven product management.</li>
+</ul>
+</li>
+</ul>
+<h3><span>Business Intelligence Specialist — IHH Humanitarian Relief Foundation, Istanbul</span> <span>Jan 2018 - Nov 2020</span></h3>
+<ul>
+<li>Data governance strategy development.</li>
+<li>Information and data warehouse management.</li>
+<li>Data analytics, visualization and storytelling.</li>
+<li>Business intelligence management.</li>
+<li>Customer experience management.</li>
+</ul>
+<h3><span>Senior Publications Editor — IHH Humanitarian Relief Foundation, Istanbul</span> <span>Nov 2013 - Dec 2018</span></h3>
+<ul>
+<li>Digital and print publication project management, copywriting and editing.</li>
+<li>Content production, new media management.</li>
+<li>Content and digital marketing.</li>
+<li>Storytelling, narrative and story designing.</li>
+<li>Documentary and visual media copywriting.</li>
+<li>SEO, SAO management.</li>
+<li>UI, UX designing.</li>
+</ul>
+<h3><span>Web Projects Coordinator — Sueda Yayincilik, Istanbul</span> <span>Aug 2008 - Nov 2013</span></h3>
+<ul>
+<li>UI design &amp; development.</li>
+<li>Content writing &amp; editing.</li>
+</ul>
+<h2>Education</h2>
+<h3><span>Computer Education and Instructional Technologies</span> <span>2004 - 2008</span></h3>
+<ul>
+<li>Anadolu University, Eskisehir (Bachelor’s Degree)</li>
+</ul>
+<h2>Language</h2>
+<ul>
+<li>Turkish (Native) </li>
+<li>English (B2 Degree)</li>
+<li>Ottoman Turkish (Advanced Degree)</li>
+</ul>
+<h2>Membership</h2>
+<ul>
+<li>Data Literacy Association, 2019 - Present, (<a href="voyd.org.tr">voyd.org.tr</a>)</li>
+</ul>
+<h2>Interests</h2>
+<p>Design, Cinema, History, Mathematics, Journalism, Photography, Camping, Reading, Writing, Cycling, Trip, Game, Coffee, Quality Content, Pipes.</p>
+<h2>Links</h2>
+<ul>
+<li>Blog - <a href="bekirarslan.com">bekirarslan.com</a></li>
+<li>Twitter - <a href="twitter.com/bkrsln">twitter.com/bkrsln</a> </li>
+<li>Medium - <a href="medium.com/@bekirarslan">medium.com/@bekirarslan</a></li>
+<li>Newsletter - <a href="getrevue.co/profile/bekirarslan">getrevue.co/profile/bekirarslan</a></li>
+<li>Instagram - <a href="instagram.com/bkrsln">instagram.com/bkrsln</a></li>
+<li>Spotify - <a href="spotify.com/user/bkrsln">spotify.com/user/bkrsln</a>  </li>
+<li>Linkedin - <a href="linkedin.com/in/bkrsln">linkedin.com/in/bkrsln</a>  </li>
+<li>Github - <a href="github.com/bkrsln">github.com/bkrsln</a></li>
+</ul></div>
+</body>
+</html>
