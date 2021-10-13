@@ -4,13 +4,8 @@
 <!-- The unordered list immediately after the h1 will be formatted on a single line. It is intended to be used for contact details -->
 - Data Scientist
 - <mail@bekirarslan.info>
+- [bekirarslan.com](bekirarslan.com )
 - +90(505)4548964
-
-
-<!-- The paragraph after the h1 and ul and before the first h2 is optional. It is intended to be used for a short summary. -->
-CEO and Software Engineer with knowledge of applied information theory,
-including optimizing lossless compression schema of both the length-limited and
-adaptive variants.
 
 ## Skills
 Data Visualization, Data Governance, Data Storytelling, Data Literacy, Business Intelligence, Product Management, Growth Marketing, App Store Optimization, UI Development & UX Design, Content Marketing, Copywriting.
@@ -27,6 +22,7 @@ Analytical Thinking, Storytelling, Curiosity, Problem Solving, Business Understa
 ### <span>Data Scientist — TRT (Turkish Radio and Television Corporation), Istanbul</span> <span>Nov 2020 - Present</span>
 
 Growth
+
 - Managing growth teams of TRT İzle (Netflix-like vod app) and TRT Dinle (Spotify-like sound app).
 - Creating workshops for determine apps' KPI's. (North Star Metric, Aha! etc.)
 - Producing, building data driven growth tactics and experiments.
@@ -35,6 +31,7 @@ Growth
 - Focusing data driven marketing for dijital products and apps.
 
 Data Science
+
 - Creating data insights about social media platforms, apps and websites usage for digital teams.
 - Building dashboards in visualization tools. (Python, D3.js, Tableau, Power BI, Google Data Studio etc.)
 - Analyzing user behavior. (AAARRR, App Remove, Churn etc.)
@@ -76,7 +73,10 @@ Data Science
 - Ottoman Turkish (Advanced Degree)
 
 ## Membership
-- Data Literacy Association, 2019 - Present, ([voyd.org.tr](voyd.org.tr))
+
+### <span>Data Literacy Association</span> <span>2019 - Present</span>
+
+- ([voyd.org.tr](voyd.org.tr))
 
 ## Interests
 
