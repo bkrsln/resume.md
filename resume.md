@@ -90,3 +90,4 @@ Design, Cinema, History, Mathematics, Journalism, Photography, Camping, Reading,
 - Spotify - [spotify.com/user/bkrsln](spotify.com/user/bkrsln )  
 - Linkedin - [linkedin.com/in/bkrsln](linkedin.com/in/bkrsln )  
 - Github - [github.com/bkrsln](github.com/bkrsln )
+- Kaggle - [kaggle.com/bekirarslan](kaggle.com/bekirarslan )
