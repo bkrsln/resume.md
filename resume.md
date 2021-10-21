@@ -1,7 +1,5 @@
-<!-- The (first) h1 will be used as the <title> of the HTML page -->
 # Bekir Arslan
 
-<!-- The unordered list immediately after the h1 will be formatted on a single line. It is intended to be used for contact details -->
 - Data Scientist
 - <mail@bekirarslan.info>
 - [bekirarslan.com](bekirarslan.com )
@@ -13,12 +11,14 @@ Data Visualization, Data Governance, Data Storytelling, Data Literacy, Business 
 ## Tools
 SQL, Python, Google BigQuery, Google Analytics, Google Tag Manager, Google Data Studio, Firebase, Tableau, Git, D3.js, HTML / CSS, Adobe Apps, Office Apps, Atlassian Aps (Jira, Confluence, Trello etc.)
 
+## Business Knowhow
+Media, Digital Media Platforms, Publishing, Information Technology, Product Development, Growth Marketing, Crowdfunding, Cinema Production, Humanitarian Works, Logistics.
+
 ## Soft Skills
 Analytical Thinking, Storytelling, Curiosity, Problem Solving, Business Understanding, Documentation, Communication, Mind Mapping, Remote Work, Presentation, Lifetime Learning.
 
 ## Experience
 
-<!-- You have to wrap the "left" and "right" half of these headings in spans by hand -->
 ### <span>Data Scientist — TRT (Turkish Radio and Television Corporation), Istanbul</span> <span>Nov 2020 - Present</span>
 
 - **Growth**
