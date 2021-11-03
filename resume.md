@@ -11,8 +11,8 @@ Data Visualization, Data Governance, Data Storytelling, Data Literacy, Business 
 ## Tools
 SQL, Python, Google BigQuery, Google Analytics, Google Tag Manager, Google Data Studio, Firebase, Tableau, Git, D3.js, HTML / CSS, Adobe Apps, Office Apps, Atlassian Aps (Jira, Confluence, Trello etc.)
 
-## Business Knowhow
-Media, Streaming & VoD Platforms, Publishing, Information Technology, Product Development, Growth Marketing, Crowdfunding, Cinema Production, Humanitarian Works, Logistics.
+## Domain Knowledge
+Media, Dijital Streaming & VoD Platforms, Publishing, Information Technology, Product Development, Growth Marketing, Crowdfunding, Cinema Production, Humanitarian Works, Logistics.
 
 ## Soft Skills
 Analytical Thinking, Storytelling, Curiosity, Problem Solving, Business Understanding, Documentation, Communication, Mind Mapping, Remote Work, Presentation, Lifetime Learning.
