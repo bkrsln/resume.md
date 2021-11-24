@@ -22,7 +22,7 @@ Analytical Thinking, Storytelling, Curiosity, Problem Solving, Business Understa
 ### <span>Data Scientist — TRT (Turkish Radio and Television Corporation), Istanbul</span> <span>Nov 2020 - Present</span>
 
 - **Growth**
-    - Managing growth teams of TRT İzle (Netflix-like vod app) and TRT Dinle (Spotify-like sound app).
+    - Managing growth teams of TRT İzle (Netflix-like vod app), TRT Dinle (Spotify-like sound app) and TRT Bil Bakalım (Mobile game app).
     - Guiding the teams to determine KPIs.
     - Creating workshops for determine apps' KPIs. (North Star Metric, Aha! etc.)
     - Producing, building data driven growth tactics and experiments.
