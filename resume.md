@@ -1,9 +1,8 @@
 # Bekir Arslan
 
-- Data Scientist
-- <mail@bekirarslan.info>
-- [bekirarslan.com](bekirarslan.com )
-- +90(505)4548964
+### Data Scientist, Growth Manager, Visualization Designer, Storytelling Enthusiast 
+
+<mail@bekirarslan.info> | [bekirarslan.com](bekirarslan.com ) | +90(505)4548964
 
 ## Skills
 Data Visualization, Data Governance, Data Storytelling, Data Literacy, Business Intelligence, Product Management, Growth Marketing, App Store Optimization, UI Development & UX Design, Content Marketing, Copywriting.
@@ -19,23 +18,23 @@ Analytical Thinking, Storytelling, Curiosity, Problem Solving, Business Understa
 
 ## Experience
 
+### <span>Growth Manager — TRT (Turkish Radio and Television Corporation), Istanbul</span> <span>Apr 2021 - Present</span>
+
+- Managing growth teams of TRT İzle (Netflix-like vod app), TRT Dinle (Spotify-like sound app) and TRT Bil Bakalım (Mobile game app).
+- Guiding the teams to determine KPIs.
+- Creating workshops for determine apps' KPIs. (North Star Metric, Aha! etc.)
+- Producing, building data driven growth tactics and experiments.
+- Preparing documentations for growth experiment learnings.
+- Creating data insights for search engine and app store optimization. (SEO, ASO)
+- Focusing data driven growth marketing for dijital products and apps.
+
 ### <span>Data Scientist — TRT (Turkish Radio and Television Corporation), Istanbul</span> <span>Nov 2020 - Present</span>
 
-- **Growth**
-    - Managing growth teams of TRT İzle (Netflix-like vod app), TRT Dinle (Spotify-like sound app) and TRT Bil Bakalım (Mobile game app).
-    - Guiding the teams to determine KPIs.
-    - Creating workshops for determine apps' KPIs. (North Star Metric, Aha! etc.)
-    - Producing, building data driven growth tactics and experiments.
-    - Preparing documentations for growth experiment learnings.
-    - Creating data insights for search engine and app store optimization. (SEO, ASO)
-    - Focusing data driven growth marketing for dijital products and apps.
-
-- **Data Science**
-    - Creating data insights about social media platforms, apps and websites usage for digital teams.
-    - Writing SQL queries for data insights using cloud systems.
-    - Building dashboards in visualization tools. (Python, D3.js, Tableau, Power BI, Google Data Studio etc.)
-    - Analyzing user behavior. (AAARRR, App Remove, Churn etc.)
-    - Focusing data driven product management.
+- Creating data insights about social media platforms, apps and websites usage for digital teams.
+- Writing SQL queries for data insights using cloud systems.
+- Building dashboards in visualization tools. (Python, D3.js, Tableau, Power BI, Google Data Studio etc.)
+- Analyzing user behavior. (AAARRR, App Remove, Churn etc.)
+- Focusing data driven product management.
 
 ### <span>Business Intelligence Specialist — IHH Humanitarian Relief Foundation, Istanbul</span> <span>Jan 2018 - Nov 2020</span>
 
