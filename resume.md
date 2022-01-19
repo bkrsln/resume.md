@@ -18,16 +18,6 @@ Analytical Thinking, Storytelling, Curiosity, Problem Solving, Business Understa
 
 ## Experience
 
-### <span>Growth Manager — TRT (Turkish Radio and Television Corporation), Istanbul</span> <span>Apr 2021 - Present</span>
-
-- Managing growth teams of TRT İzle (Netflix-like vod app), TRT Dinle (Spotify-like sound app) and TRT Bil Bakalım (Mobile game app).
-- Guiding the teams to determine KPIs.
-- Creating workshops for determine apps' KPIs. (North Star Metric, Aha! etc.)
-- Producing, building data driven growth tactics and experiments.
-- Preparing documentations for growth experiment learnings.
-- Creating data insights for search engine and app store optimization. (SEO, ASO)
-- Focusing data driven growth marketing for dijital products and apps.
-
 ### <span>Data Scientist — TRT (Turkish Radio and Television Corporation), Istanbul</span> <span>Nov 2020 - Present</span>
 
 - Creating data insights about social media platforms, apps and websites usage for digital teams.
@@ -35,6 +25,23 @@ Analytical Thinking, Storytelling, Curiosity, Problem Solving, Business Understa
 - Building dashboards in visualization tools. (Python, D3.js, Tableau, Power BI, Google Data Studio etc.)
 - Analyzing user behavior. (AAARRR, App Remove, Churn etc.)
 - Focusing data driven product management.
+
+### <span>Growth Consultant — TRT (Turkish Radio and Television Corporation), Istanbul</span> <span>Jan 2022 - Present</span>
+
+- Mentoring growth teams of TRT İzle (Netflix-like vod app), TRT Dinle (Spotify-like sound app) and TRT Bil Bakalım (Mobile game app).
+- Guiding the teams to determine KPIs.
+- Producing, building data driven growth tactics and experiments.
+
+### <span>Growth Manager — TRT (Turkish Radio and Television Corporation), Istanbul</span> <span>Apr 2021 - Jan 2022</span>
+
+- Managing growth teams of TRT İzle (Netflix-like vod app), TRT Dinle (Spotify-like sound app) and TRT Bil Bakalım (Mobile game app).
+- Organizing weekly growth meetings.
+- Guiding the teams to determine KPIs.
+- Creating workshops for determine apps' KPIs. (North Star Metric, Aha! etc.)
+- Producing, building data driven growth tactics and experiments.
+- Preparing documentations for growth experiment learnings.
+- Creating data insights for search engine and app store optimization. (SEO, ASO)
+- Focusing data driven growth marketing for dijital products and apps.
 
 ### <span>Business Intelligence Specialist — IHH Humanitarian Relief Foundation, Istanbul</span> <span>Jan 2018 - Nov 2020</span>
 
@@ -90,3 +97,5 @@ Design, Cinema, History, Mathematics, Journalism, Photography, Camping, Reading,
 - Linkedin - [linkedin.com/in/bkrsln](linkedin.com/in/bkrsln )  
 - Github - [github.com/bkrsln](github.com/bkrsln )
 - Kaggle - [kaggle.com/bekirarslan](kaggle.com/bekirarslan )
+- Superpeer - [superpeer.com/bekirarslan](superpeer.com/bekirarslan )
+- Goodreads - [goodreads.com/bekirarslan](goodreads.com/bekirarslan )
