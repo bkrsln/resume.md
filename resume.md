@@ -2,7 +2,7 @@
 
 ### Data Scientist, Growth Manager, Visualization Designer, Storytelling Enthusiast 
 
-<mail@bekirarslan.info> | [bekirarslan.com](bekirarslan.com ) | +90(505)4548964
+<mail@bekirarslan.com> | [bekirarslan.com](bekirarslan.com ) | +90(505)4548964
 
 ## Skills
 Data Visualization, Data Governance, Data Storytelling, Data Literacy, Business Intelligence, Product Management, Growth Marketing, App Store Optimization, UI Development & UX Design, Content Marketing, Copywriting.
