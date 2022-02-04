@@ -1,11 +1,11 @@
 # Bekir Arslan
 
-### Data Scientist, Growth Manager, Visualization Designer, Storytelling Enthusiast 
+### Data Scientist, Growth Specialist, Visualization Designer, Storytelling Enthusiast
 
 <mail@bekirarslan.com> | [bekirarslan.com](bekirarslan.com ) | +90(505)4548964
 
 ## Skills
-Data Visualization, Data Governance, Data Storytelling, Data Literacy, Business Intelligence, Product Management, Growth Marketing, App Store Optimization, UI Development & UX Design, Content Marketing, Copywriting.
+Data Driven Product Management, Product Data Management, Growth Management, Data Visualization, Data Governance, Data Storytelling, Data Literacy, Business Intelligence, App Store Optimization, UI Development & UX Design, Content Marketing, Copywriting.
 
 ## Tools
 SQL, Python, Google BigQuery, Google Analytics, Google Tag Manager, Google Data Studio, Firebase, Tableau, Git, D3.js, HTML / CSS, Adobe Apps, Office Apps, Atlassian Aps (Jira, Confluence, Trello etc.)
@@ -18,19 +18,21 @@ Analytical Thinking, Storytelling, Curiosity, Problem Solving, Business Understa
 
 ## Experience
 
-### <span>Data Scientist — TRT (Turkish Radio and Television Corporation), Istanbul</span> <span>Nov 2020 - Present</span>
+### <span>Product Data Scientist — TRT (Turkish Radio and Television Corporation), Istanbul</span> <span>Nov 2020 - Present</span>
 
-- Creating data insights about social media platforms, apps and websites usage for digital teams.
+- Collobrating and communicating product teams, managers and members for data driven decision making.
+- Focusing data driven product management for mentoring to stakeholders of products.
+- Managing data management of products.
+- Creating data insights about social media platforms, products, apps and websites usage for digital teams.
 - Writing SQL queries for data insights using cloud systems.
 - Building dashboards in visualization tools. (Python, D3.js, Tableau, Power BI, Google Data Studio etc.)
-- Analyzing user behavior. (AAARRR, App Remove, Churn etc.)
-- Focusing data driven product management.
+- Analyzing user behaviors. (AAARRR, App Remove, Churn etc.)
 
-### <span>Growth Consultant — TRT (Turkish Radio and Television Corporation), Istanbul</span> <span>Jan 2022 - Present</span>
+### <span>Growth Specialist — TRT (Turkish Radio and Television Corporation), Istanbul</span> <span>Jan 2022 - Present</span>
 
 - Mentoring growth teams of TRT İzle (Netflix-like vod app), TRT Dinle (Spotify-like sound app) and TRT Bil Bakalım (Mobile game app).
 - Guiding the teams to determine KPIs.
-- Producing, building data driven growth tactics and experiments.
+- Producing, building data driven growth ideas, tactics and experiments.
 
 ### <span>Growth Manager — TRT (Turkish Radio and Television Corporation), Istanbul</span> <span>Apr 2021 - Jan 2022</span>
 
