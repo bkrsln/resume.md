@@ -20,7 +20,7 @@ Analytical Thinking, Storytelling, Curiosity, Problem Solving, Business Understa
 
 ### <span>Data-Driven Growth Specialist — TRT (Turkish Radio and Television Corporation), Istanbul</span> <span>Jan 2022 - Present</span>
 
-- Mentoring data driven growth teams of TRT İzle (Netflix-like vod app), TRT Dinle (Spotify-like sound app) and TRT Bil Bakalım (Mobile game app).
+- Mentoring data driven growth teams of digital products which consist of content, product, data, marketing, social media members. (TRT İzle: Netflix-like vod app that 5M+ users downloaded, TRT Dinle: Spotify-like sound app that 600K+ users downloaded and TRT Bil Bakalım: Mobile game app that 2M+ users downloaded)
 - Guiding the teams to determine KPIs.
 - Producing, building data driven growth ideas, tactics and experiments.
 - Focusing the teams to being data driven.
@@ -29,7 +29,7 @@ Analytical Thinking, Storytelling, Curiosity, Problem Solving, Business Understa
 
 ### <span>Data-Driven Growth Manager — TRT (Turkish Radio and Television Corporation), Istanbul</span> <span>Apr 2021 - Jan 2022</span>
 
-- Managing with data-driven way to growth teams of TRT İzle (Netflix-like vod app), TRT Dinle (Spotify-like sound app) and TRT Bil Bakalım (Mobile game app).
+- Managing with data-driven way to growth teams of digital products which consist of content, product, data, marketing, social media members. (TRT İzle: Netflix-like vod app that 5M+ users downloaded, TRT Dinle: Spotify-like sound app that 600K+ users downloaded and TRT Bil Bakalım: Mobile game app that 2M+ users downloaded)
 - Analyzing and tracking user behaviors with using AAARRR Pirate Funnel. (Awareness, Acquisition, Activation, Retention, Revenue, Referral.)
 - Analyzing user behaviors for app remove, retention and churn.
 - Creating user based A/B testings using Google Optimize etc.
