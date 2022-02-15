@@ -1,47 +1,40 @@
 # Bekir Arslan
 
-### Product Data Scientist, Data-Driven Growth Specialist, Visualization Designer, Storytelling Enthusiast
+### Product Data Scientist, Growth Product Manager, Visualization Designer, Storytelling Enthusiast
 
-<mail@bekirarslan.com> | [bekirarslan.com](bekirarslan.com ) | +90(505)4548964
+<mail@bekirarslan.com> | [bekirarslan.com](bekirarslan.com ) | +905054548964
 
 ## Skills
-Data Driven Product Management, Product Data Management, Growth Management, Growth Marketing, Data Visualization, Data Governance, Data Storytelling, Data Literacy, Business Intelligence, App Store Optimization, UI Development & UX Design, Content Marketing, Copywriting.
+Data Driven Product Management, Product Data Management, Growth Product Management, Growth Marketing, Data Visualization, Data Governance, Data Storytelling, Data Literacy, Business Intelligence, App Store Optimization, UI Development & UX Design, Content Marketing, Copywriting.
 
 ## Tools
 SQL, Python, Google BigQuery, Google Analytics, Google Tag Manager, Google Data Studio, Google Optimize, Firebase, AppsFlyer, MobileAction, SensorTower, Tableau, Power BI, Git, D3.js, HTML / CSS, Adobe Apps, Office Apps, Atlassian Apps (Jira, Confluence, Trello etc.)
 
 ## Domain Knowledge
-Media, Dijital Streaming & VoD Platforms, Publishing, Information Technology, Product Development, Growth Marketing, Crowdfunding, Cinema Production, Humanitarian Works, Logistics.
+Product Development, Product Management, Growth Management, Growth Marketing, Media, Digital Streaming & VoD Platforms, Publishing, Information Technology, Crowdfunding, Cinema Production, Humanitarian Works, Logistics.
 
 ## Soft Skills
 Analytical Thinking, Storytelling, Curiosity, Problem Solving, Business Understanding, Documentation, Communication, Mind Mapping, Remote Work, Presentation, Lifetime Learning.
 
 ## Experience
 
-### <span>Data-Driven Growth Specialist — TRT (Turkish Radio and Television Corporation), Istanbul</span> <span>Jan 2022 - Present</span>
+### <span>Growth Product Manager — TRT (Turkish Radio and Television Corporation), Istanbul</span> <span>Apr 2021 - Present</span>
 
-- Mentoring data driven growth teams of digital products which consist of content, product, data, marketing, social media members. (TRT İzle: Netflix-like vod app that 5M+ users downloaded, TRT Dinle: Spotify-like sound app that 600K+ users downloaded and TRT Bil Bakalım: Mobile game app that 2M+ users downloaded)
-- Guiding the teams to determine KPIs.
-- Producing, building data driven growth ideas, tactics and experiments.
+- Mentoring and managing with data-driven way to growth teams of digital products which consist of content, product, data, marketing, social media members. (TRT İzle: Netflix-like vod app that 5M+ users downloaded, TRT Dinle: Spotify-like sound app that 600K+ users downloaded and TRT Bil Bakalım: Mobile game app that 2M+ users downloaded)
 - Focusing the teams to being data driven.
-- Creating data insights using growth experiments and learnings.
-- Making decisions using growth experiment learnings.
-
-### <span>Data-Driven Growth Manager — TRT (Turkish Radio and Television Corporation), Istanbul</span> <span>Apr 2021 - Jan 2022</span>
-
-- Managing with data-driven way to growth teams of digital products which consist of content, product, data, marketing, social media members. (TRT İzle: Netflix-like vod app that 5M+ users downloaded, TRT Dinle: Spotify-like sound app that 600K+ users downloaded and TRT Bil Bakalım: Mobile game app that 2M+ users downloaded)
-- Analyzing and tracking user behaviors with using AAARRR Pirate Funnel. (Awareness, Acquisition, Activation, Retention, Revenue, Referral.)
-- Analyzing user behaviors for app remove, retention and churn.
-- Creating user based A/B testings using Google Optimize etc.
-- Organizing weekly growth sprint meetings.
-- Guiding the teams to determine KPIs.
-- Creating workshops for determine apps' KPIs. (North Star Metric, Aha! etc.)
+- Collobrating and communicating between business owners and product development teams.
+- Prioritizing data driven growth backlogs instead of product development backlogs.
+- Guiding the teams to determine KPIs and creating workshops. (North Star Metric, Finding Aha! Moment etc.)
 - Producing, building data driven growth ideas, tactics and experiments.
+- Organizing weekly growth sprint meetings.
 - Preparing documentations for growth experiment learnings.
-- Creating data insights for search engine optimization (SEO) and app store optimization (ASO) using SensorTower, MobileAction and AppsFlyer.
-- Mentoring the teams for customer or user journey using notification tools.
-- Guiding the teams for producing and building dijital marketing campaigns. (Facebook, Google, Twitter etc.)
-- Focusing data driven growth marketing for dijital products and apps.
+- Analyzing and tracking user behaviors with using AAARRR Pirate Funnel. (Awareness, Acquisition, Activation, Retention, Revenue, Referral.)
+- Analyzing user behaviors for app remove, retention, churn and customer lifetime value.
+- Creating user based A/B testings using Google Optimize etc.
+- Creating data insights and making decisions using growth experiments and learnings for the purpose of user or customer journey.
+- Improving user journey in User Interface (UI), User Experience (UX), Search Engine Optimization (SEO), App Store Optimization (ASO) and push notifications.
+- Guiding the teams for producing and building digital marketing campaigns. (Facebook, Google, Twitter, Apple Search Ads etc.)
+- Focusing data driven growth marketing for digital products and apps.
 
 ### <span>Product Data Scientist — TRT (Turkish Radio and Television Corporation), Istanbul</span> <span>Nov 2020 - Present</span>
 
