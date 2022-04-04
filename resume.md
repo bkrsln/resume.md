@@ -1,28 +1,37 @@
 # Bekir Arslan
 
-### Product Data Scientist, Growth Product Manager, Visualization Designer, Storytelling Enthusiast
+### Data scientist focused to product management and growth hacking who love visualization and storytelling.
 
 <mail@bekirarslan.com> | [bekirarslan.com](bekirarslan.com ) | +905054548964
 
 ## Skills
-Data Driven Product Management, Product Data Management, Growth Product Management, Growth Marketing, Data Visualization, Data Governance, Data Storytelling, Data Literacy, Business Intelligence, App Store Optimization, UI Development & UX Design, Content Marketing, Copywriting.
+Data Analytics, Data Driven Product Management, Product Data Management, Growth Product Management, Growth Marketing, Data Visualization, Data Governance, Data Storytelling, Data Literacy, Business Intelligence, App Store Optimization, UI Development & UX Design, Content Marketing, Copywriting.
 
 ## Tools
-SQL, Python, Google BigQuery, Google Analytics, Google Tag Manager, Google Data Studio, Google Optimize, Firebase, AppsFlyer, MobileAction, SensorTower, Tableau, Power BI, Git, D3.js, HTML / CSS, Adobe Apps, Office Apps, Atlassian Apps (Jira, Confluence, Trello etc.)
+Google Cloud Platform, SQL, Python, Google BigQuery, Google Analytics, Google Tag Manager, Google Data Studio, Google Optimize, Firebase, AppsFlyer, MobileAction, SensorTower, Tableau, Power BI, Looker, Qlik, Git, D3.js, HTML / CSS, Adobe Apps, Office Apps, Atlassian Apps (Jira, Confluence, Trello etc.)
 
-## Domain Knowledge
-Product Development, Product Management, Growth Management, Growth Marketing, Media, Digital Streaming & VoD Platforms, Publishing, Information Technology, Crowdfunding, Cinema Production, Humanitarian Works, Logistics.
+## Domain Knowledges
+Data Analytics, Product Management, Growth Management, Growth Marketing, Media, VoD & Sound Streaming Platforms, Publishing, Information Technology, Crowdfunding, Cinema Production, Humanitarian Works, Logistics.
 
 ## Soft Skills
 Analytical Thinking, Storytelling, Curiosity, Problem Solving, Business Understanding, Documentation, Communication, Mind Mapping, Remote Work, Presentation, Lifetime Learning.
 
 ## Experience
 
-### <span>Growth Product Manager — TRT (Turkish Radio and Television Corporation), Istanbul</span> <span>Apr 2021 - Present</span>
+### <span>Data Science Team Lead — TRT (Turkish Radio and Television Corporation), Istanbul</span> <span>Apr 2022 - Present</span>
+
+- Analyzing business needs, creating data insights and collabrating with product teams.
+- Creating workshops to determine product OKRs and KPIs.
+- Researching for better data infrastructures and collaborating with data engineers for improve to data pipelines.
+- Mentoring with data-driven way to growth teams of digital products which consist of content, product, data, marketing, social media members. (TRT’s apps that 7M+ users downloaded)
+- Working together team members with data-driven product management workflow.
+- Organizing 1:1 meetings with team members and assigning to tasks using Jira.
+
+### <span>Growth Product Manager — TRT (Turkish Radio and Television Corporation), Istanbul</span> <span>Apr 2021 - Feb 2022</span>
 
 - Mentoring and managing with data-driven way to growth teams of digital products which consist of content, product, data, marketing, social media members. (TRT İzle: Netflix-like vod app that 5M+ users downloaded, TRT Dinle: Spotify-like sound app that 600K+ users downloaded and TRT Bil Bakalım: Mobile game app that 2M+ users downloaded)
 - Focusing the teams to being data driven.
-- Collobrating and communicating between business owners and product development teams.
+- Collabrating and communicating between business owners and product development teams.
 - Prioritizing data driven growth backlogs instead of product development backlogs.
 - Guiding the teams to determine KPIs and creating workshops. (North Star Metric, Finding Aha! Moment etc.)
 - Producing, building data driven growth ideas, tactics and experiments.
@@ -36,9 +45,9 @@ Analytical Thinking, Storytelling, Curiosity, Problem Solving, Business Understa
 - Guiding the teams for producing and building digital marketing campaigns. (Facebook, Google, Twitter, Apple Search Ads etc.)
 - Focusing data driven growth marketing for digital products and apps.
 
-### <span>Product Data Scientist — TRT (Turkish Radio and Television Corporation), Istanbul</span> <span>Nov 2020 - Present</span>
+### <span>Product Data Scientist — TRT (Turkish Radio and Television Corporation), Istanbul</span> <span>Nov 2020 - Apr 2022</span>
 
-- Collobrating and communicating product teams, managers and members for data driven decision making.
+- Collabrating and communicating product teams, managers and members for data driven decision making.
 - Focusing data driven product management for mentoring to stakeholders of products.
 - Managing data management of products.
 - Creating data insights about social media platforms, products, apps and websites usage for digital teams.
@@ -78,7 +87,7 @@ Analytical Thinking, Storytelling, Curiosity, Problem Solving, Business Understa
 ## Language
 
 - Turkish (Native) 
-- English (B2 Degree)
+- English (B1 Degree)
 
 ## Membership
 
