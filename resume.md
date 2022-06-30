@@ -1,6 +1,6 @@
 # Bekir Arslan
 
-### Data scientist focused to product management and growth hacking who love visualization and storytelling.
+### Data scientist focusing on product management and growth hacking who love visualization and storytelling.
 
 <mail@bekirarslan.com> | [bekirarslan.com](bekirarslan.com ) | +905054548964
 
@@ -18,9 +18,17 @@ Analytical Thinking, Storytelling, Curiosity, Problem Solving, Business Understa
 
 ## Experience
 
-### <span>Data Science Team Lead — TRT (Turkish Radio and Television Corporation), Istanbul</span> <span>Apr 2022 - Present</span>
+### <span>Associate Principal Digital Services Data Analyst — Turkcell, Istanbul</span> <span>Jun 2022 - Present</span>
 
-- Analyzing business needs, creating data insights and collabrating with product teams.
+- Analyzing business needs, creating data insights and customer segmentations, collaborating and communicating with product teams for data driven decision making as a member of Strategy, Growth & Analytics team of Turkcell’s digital services and solutions. (TV+ and Fizy: video streaming & music services, BiP and BiPMeet: message & meeting services, Lifebox: cloud storage service, Yaani: search engine & mailing service, Dergilik and GollerCepte: entertainment services, GAME+: cloud gaming.)
+- Working with data-driven way to growth teams of Turkcell’s digital services and solutions which consist of content, product, data, sales, marketing, social media members.
+- Working together analytics team members using data-driven product management workflow.
+- Analyzing, tracking user behavior and customer journey. (AAARRR Pirate Funnel, App Remove, Churn, Customer Lifetime Value etc.)
+- Improving customer journey using User Interface (UI), User Experience (UX), Search Engine Optimization (SEO), App Store Optimization (ASO) and push notifications.
+
+### <span>Data Science Team Lead — TRT (Turkish Radio and Television Corporation), Istanbul</span> <span>Apr 2022 - Jun 2022</span>
+
+- Analyzing business needs, creating data insights and collaborating with product teams.
 - Creating workshops to determine product OKRs and KPIs.
 - Researching for better data infrastructures and collaborating with data engineers for improve to data pipelines.
 - Mentoring with data-driven way to growth teams of digital products which consist of content, product, data, marketing, social media members. (TRT’s apps that 7M+ users downloaded)
@@ -31,7 +39,7 @@ Analytical Thinking, Storytelling, Curiosity, Problem Solving, Business Understa
 
 - Mentoring and managing with data-driven way to growth teams of digital products which consist of content, product, data, marketing, social media members. (TRT İzle: Netflix-like vod app that 5M+ users downloaded, TRT Dinle: Spotify-like sound app that 600K+ users downloaded and TRT Bil Bakalım: Mobile game app that 2M+ users downloaded)
 - Focusing the teams to being data driven.
-- Collabrating and communicating between business owners and product development teams.
+- Collaborating and communicating between business owners and product development teams.
 - Prioritizing data driven growth backlogs instead of product development backlogs.
 - Guiding the teams to determine KPIs and creating workshops. (North Star Metric, Finding Aha! Moment etc.)
 - Producing, building data driven growth ideas, tactics and experiments.
@@ -73,7 +81,7 @@ Analytical Thinking, Storytelling, Curiosity, Problem Solving, Business Understa
 - SEO, SAO management.
 - UI, UX designing.
 
-### <span>Web Projects Coordinator — Sueda Yayincilik, Istanbul</span> <span>Aug 2008 - Nov 2013</span>
+### <span>Web Projects Coordinator — Sueda Publication, Istanbul</span> <span>Aug 2008 - Nov 2013</span>
 
 - UI design & development.
 - Content writing & editing.
@@ -101,11 +109,10 @@ Design, Cinema, History, Mathematics, Journalism, Photography, Camping, Reading,
 
 - Blog - [bekirarslan.com](bekirarslan.com )
 - Twitter - [twitter.com/bkrsln](twitter.com/bkrsln ) 
-- Linkedin - [linkedin.com/in/bkrsln](linkedin.com/in/bkrsln ) 
+- Linkedin - [linkedin.com/in/bkrsln](linkedin.com/in/bkrsln )
+- Pocket — [getpocket.com/@bkrsln](getpocket.com/@bkrsln )
 - Medium - [medium.com/@bekirarslan](medium.com/@bekirarslan )
-- Newsletter - [getrevue.co/profile/bekirarslan](getrevue.co/profile/bekirarslan )
-- Instagram - [instagram.com/bkrsln](instagram.com/bkrsln )
-- Spotify - [spotify.com/user/bkrsln](spotify.com/user/bkrsln )  
+- Instagram - [instagram.com/bkrsln](instagram.com/bkrsln ) 
 - Github - [github.com/bkrsln](github.com/bkrsln )
 - Kaggle - [kaggle.com/bekirarslan](kaggle.com/bekirarslan )
 - Superpeer - [superpeer.com/bekirarslan](superpeer.com/bekirarslan )
