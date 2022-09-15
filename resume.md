@@ -20,6 +20,7 @@ Analytical Thinking, Storytelling, Curiosity, Problem Solving, Business Understa
 
 ### <span>Associate Principal Digital Services Data Analyst — Turkcell, Istanbul</span> <span>Jun 2022 - Present</span>
 
+- Working for Turkcell’s digital services and solutions as a product growth and data analyst.
 - Analyzing business needs, creating data insights and customer segmentations, collaborating and communicating with product teams for data driven decision making as a member of Strategy, Growth & Analytics team of Turkcell’s digital services and solutions. (TV+ and Fizy: video streaming & music services, BiP and BiPMeet: message & meeting services, Lifebox: cloud storage service, Yaani: search engine & mailing service, Dergilik and GollerCepte: entertainment services, GAME+: cloud gaming.)
 - Working with data-driven way to growth teams of Turkcell’s digital services and solutions which consist of content, product, data, sales, marketing, social media members.
 - Working together analytics team members using data-driven product management workflow.
@@ -95,7 +96,7 @@ Analytical Thinking, Storytelling, Curiosity, Problem Solving, Business Understa
 ## Language
 
 - Turkish (Native) 
-- English (B1 Degree)
+- English (B2 Degree)
 
 ## Membership
 
