@@ -1,24 +1,21 @@
 # Bekir Arslan
 
-### Data scientist focusing on product management and growth hacking who love visualization and storytelling.
+### I'm a data scientist and analytics expert focusing on product management and growth hacking who love visualization and storytelling.
 
 <mail@bekirarslan.com> | [bekirarslan.com](bekirarslan.com ) | +905054548964
 
-## Skills
-Data Analytics, Data Driven Product Management, Product Data Management, Growth Product Management, Growth Marketing, Data Visualization, Data Governance, Data Storytelling, Data Literacy, Business Intelligence, App Store Optimization, UI Development & UX Design, Content Marketing, Copywriting.
+## Skills and Domain Knowledges
+Data Analytics, Business Intelligence, Data Driven Product Management, Product Data Management, Growth Product Management, Growth Marketing, Data Visualization, Data Governance, Data Storytelling, Data Literacy, Search Engine Optimization, Conversation Rate Optimization, App Store Optimization, UI Development & UX Design, Content Marketing, Copywriting.
 
-## Tools
-Google Cloud Platform, SQL, Python, Google BigQuery, Google Analytics, Google Tag Manager, Google Data Studio, Google Optimize, Firebase, AppsFlyer, MobileAction, SensorTower, Tableau, Power BI, Looker, Qlik, Git, D3.js, HTML / CSS, Adobe Apps, Office Apps, Atlassian Apps (Jira, Confluence, Trello etc.)
-
-## Domain Knowledges
-Data Analytics, Product Management, Growth Management, Growth Marketing, Media, VoD & Sound Streaming Platforms, Publishing, Information Technology, Crowdfunding, Cinema Production, Humanitarian Works, Logistics.
+## Tech Stack
+Google Cloud Platform, SQL, Python, Google BigQuery, Google Analytics, Google Tag Manager, Google Optimize, Firebase, Google Data Studio, Tableau, Power BI, Looker, Qlik, AppsFlyer, Data.ai, MobileAction, SensorTower, Semrush, Git, D3.js, HTML / CSS, Adobe Apps, Office Apps, Atlassian Apps (Jira, Confluence, Trello etc.)
 
 ## Soft Skills
 Analytical Thinking, Storytelling, Curiosity, Problem Solving, Business Understanding, Documentation, Communication, Mind Mapping, Remote Work, Presentation, Lifetime Learning.
 
-## Experience
+## Work Experiences
 
-### <span>Associate Principal Digital Services Data Analyst — Turkcell, Istanbul</span> <span>Jun 2022 - Present</span>
+### <span>Associate Principal Product Growth and Data Analyst — Turkcell</span> <span>Jun 2022 - Present</span>
 
 - Working for Turkcell’s digital services and solutions as a product growth and data analyst.
 - Analyzing business needs, creating data insights and customer segmentations, collaborating and communicating with product teams for data driven decision making as a member of Strategy, Growth & Analytics team of Turkcell’s digital services and solutions. (TV+ and Fizy: video streaming & music services, BiP and BiPMeet: message & meeting services, Lifebox: cloud storage service, Yaani: search engine & mailing service, Dergilik and GollerCepte: entertainment services, GAME+: cloud gaming.)
@@ -27,7 +24,7 @@ Analytical Thinking, Storytelling, Curiosity, Problem Solving, Business Understa
 - Analyzing, tracking user behavior and customer journey. (AAARRR Pirate Funnel, App Remove, Churn, Customer Lifetime Value etc.)
 - Improving customer journey using User Interface (UI), User Experience (UX), Search Engine Optimization (SEO), App Store Optimization (ASO) and push notifications.
 
-### <span>Data Science Team Lead — TRT (Turkish Radio and Television Corporation), Istanbul</span> <span>Apr 2022 - Jun 2022</span>
+### <span>Data Science and Analytics Team Lead — TRT World</span> <span>Apr 2022 - Jun 2022</span>
 
 - Analyzing business needs, creating data insights and collaborating with product teams.
 - Creating workshops to determine product OKRs and KPIs.
@@ -36,7 +33,7 @@ Analytical Thinking, Storytelling, Curiosity, Problem Solving, Business Understa
 - Working together team members with data-driven product management workflow.
 - Organizing 1:1 meetings with team members and assigning to tasks using Jira.
 
-### <span>Growth Product Manager — TRT (Turkish Radio and Television Corporation), Istanbul</span> <span>Apr 2021 - Feb 2022</span>
+### <span>Growth and Data Product Manager — TRT World</span> <span>Apr 2021 - Feb 2022</span>
 
 - Mentoring and managing with data-driven way to growth teams of digital products which consist of content, product, data, marketing, social media members. (TRT İzle: Netflix-like vod app that 5M+ users downloaded, TRT Dinle: Spotify-like sound app that 600K+ users downloaded and TRT Bil Bakalım: Mobile game app that 2M+ users downloaded)
 - Focusing the teams to being data driven.
@@ -54,7 +51,7 @@ Analytical Thinking, Storytelling, Curiosity, Problem Solving, Business Understa
 - Guiding the teams for producing and building digital marketing campaigns. (Facebook, Google, Twitter, Apple Search Ads etc.)
 - Focusing data driven growth marketing for digital products and apps.
 
-### <span>Product Data Scientist — TRT (Turkish Radio and Television Corporation), Istanbul</span> <span>Nov 2020 - Apr 2022</span>
+### <span>Product and Growth Data Scientist — TRT World</span> <span>Nov 2020 - Apr 2022</span>
 
 - Collabrating and communicating product teams, managers and members for data driven decision making.
 - Focusing data driven product management for mentoring to stakeholders of products.
@@ -64,7 +61,7 @@ Analytical Thinking, Storytelling, Curiosity, Problem Solving, Business Understa
 - Building dashboards in visualization tools. (Python, D3.js, Tableau, Power BI, Google Data Studio etc.)
 - Analyzing user behaviors. (AAARRR, App Remove, Churn etc.)
 
-### <span>Business Intelligence Specialist — IHH Humanitarian Relief Foundation, Istanbul</span> <span>Jan 2018 - Nov 2020</span>
+### <span>Data Analyst and Business Intelligence Manager — IHH Turkey</span> <span>Jan 2018 - Nov 2020</span>
 
 - Data governance strategy development.
 - Information and data warehouse management.
@@ -72,7 +69,7 @@ Analytical Thinking, Storytelling, Curiosity, Problem Solving, Business Understa
 - Business intelligence management.
 - Customer experience management.
 
-### <span>Senior Publications Editor — IHH Humanitarian Relief Foundation, Istanbul</span> <span>Nov 2013 - Dec 2018</span>
+### <span>Senior Reporting Publications Editor — IHH Turkey</span> <span>Nov 2013 - Dec 2018</span>
 
 - Digital and print publication project management, copywriting and editing.
 - Content production, new media management.
@@ -81,11 +78,6 @@ Analytical Thinking, Storytelling, Curiosity, Problem Solving, Business Understa
 - Documentary and visual media copywriting.
 - SEO, SAO management.
 - UI, UX designing.
-
-### <span>Web Projects Coordinator — Sueda Publication, Istanbul</span> <span>Aug 2008 - Nov 2013</span>
-
-- UI design & development.
-- Content writing & editing.
 
 ## Education
 
@@ -101,10 +93,6 @@ Analytical Thinking, Storytelling, Curiosity, Problem Solving, Business Understa
 ## Membership
 
 - Data Literacy Association, 2019 - Present, ([voyd.org.tr](voyd.org.tr))
-
-## Interests
-
-Design, Cinema, History, Mathematics, Journalism, Photography, Camping, Reading, Writing, Cycling, Trip, Game, Coffee, Quality Content, Pipes.
 
 ## Links
 
