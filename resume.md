@@ -1,25 +1,24 @@
 # Bekir Arslan
 
-### I'm a data analyst focusing on product management and growth hacking who love visualization and storytelling.
+I'm a data professional who help product teams to use data science and analytics to drive better insights and growth.
 
 <mail@bekirarslan.com> | [bekirarslan.com](bekirarslan.com ) | +905054548964
 
 ## Skills and Domain Knowledges
-Data Analytics, Business Intelligence, Data Driven Product and Growth Management, Data Visualization, Data Storytelling, Digital Marketing, Search Engine Optimization (SEO), App Store Optimization (ASO), A/B Testing.
+Data Analytics, Data Science, Business Intelligence, Product Analytics, Product Management, Growth Hacking, Data Visualization, Data Storytelling, Digital Marketing, Search Engine Optimization (SEO), App Store Optimization (ASO), A/B Testing, Agile Methodology.
 
 ## Tech Stack
-Google Cloud Platform, SQL, Python, Google BigQuery, Google Analytics, Google Tag Manager, Google Optimize, Firebase, Google Data Studio, Tableau, Power BI, Looker, Qlik, AppsFlyer, Data.ai, MobileAction, SensorTower, Semrush, Git, Atlassian Apps (Jira, Confluence, Trello etc.)
+SQL, Python, Google Cloud Platform, AWS, Google BigQuery, Google Analytics, Google Tag Manager, Google Optimize, Firebase, Google Data Studio, Tableau, Power BI, Looker, Qlik, AppsFlyer, Data.ai, MobileAction, SensorTower, Semrush, Git, Atlassian Apps (Jira, Confluence, Trello etc.)
 
 ## Work Experience
 
 ### <span>Associate Principal Digital Services Product Growth and Data Analyst — Turkcell</span> <span>Jun 2022 - Present</span>
 
-- Working for Turkcell’s digital services and solutions as a product growth and data analyst.
-- Analyzing business needs, creating data insights and customer segmentations, collaborating and communicating with product teams for data driven decision making as a member of Strategy, Growth & Analytics team of Turkcell’s digital services and solutions. (TV+ and Fizy: video streaming & music services, BiP and BiPMeet: message & meeting services, Lifebox: cloud storage service, Yaani: search engine & mailing service, Dergilik and GollerCepte: entertainment services, GAME+: cloud gaming.)
-- Working with data-driven way to growth teams of Turkcell’s digital services and solutions which consist of content, product, data, sales, marketing, social media members.
+- Analyzing business needs, creating data and growth insights for Turkcell’s digital services and solutions product teams. (TV+ and Fizy: Video streaming & music services, BiP and BiPMeet: Message & meeting services, Lifebox: Cloud storage service, Yaani: Search engine & mailing service, GAME+: Cloud gaming.)
+- Analyzing, tracking user behaviors. (AAARRR Pirate Funnel, App Remove, Retention, ARPU, Churn, Customer Lifetime Value etc.)
+- Creating data insights for Search Engine Optimization (SEO), App Store Optimization (ASO) and Conversation Rate Optimization (CRO).
 - Working together analytics team members using data-driven product and growth management workflow.
-- Analyzing, tracking user behavior and customer journey. (AAARRR Pirate Funnel, App Remove, Retention, Churn, Customer Lifetime Value etc.)
-- Improving customer journey using User Interface (UI), User Experience (UX), Search Engine Optimization (SEO), App Store Optimization (ASO) and push notifications.
+- Working with data-driven way to growth teams which consist of content, product, data, sales, marketing, social media members.
 
 ### <span>Lead Data Analyst — TRT World</span> <span>Apr 2022 - Jun 2022</span>
 
